@@ -1,0 +1,14 @@
+# Arquivos de banco de dados
+biblioteca.db
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de log
+*.log
